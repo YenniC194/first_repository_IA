@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    text-align: center;
+  background-color: rgb(226, 173, 181);
+  color:black;  
+}
+
+h1{
+   background-color: brown; 
+   color: white;
+}
+h2{
+    background-color: rgb(174, 0, 255);
+    color:beige ;
+}
+div{
+    align-items: ;
+}
